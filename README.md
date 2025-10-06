@@ -74,3 +74,4 @@ node email-sender.js
 
 - `generate-password` - For generating random passwords
 - `nodemailer` - For sending emails
+
