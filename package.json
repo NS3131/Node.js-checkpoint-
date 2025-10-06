@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-checkpoint",
+  "version": "1.0.0",
+  "description": "Node.js checkpoint exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["nodejs", "exercises"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "generate-password": "^1.7.0",
+    "nodemailer": "^6.9.7"
+  }
+}
